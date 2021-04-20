@@ -1,0 +1,16 @@
+[package]
+name = "webviewi"
+version = "0.1.0"
+authors = ["m1cl <michael_ajala@yahoo.de>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.4.5"
+rust-embed = "5.6.0"
+yew = "0.17.4"
+web-view = "0.6.3"
+rocket_contrib = "0.4.5"
+clipboard = "0.5.0"
+tokio = "0.3.3"
